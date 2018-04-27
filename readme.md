@@ -134,10 +134,7 @@ El usuario no utiliza todos sus vuelos y deja de pagar.
 ## Creación Journey map
 ![fireshot capture 58 - untitled - https___uxpressia com_p_qk6sp_m_snayx](https://user-images.githubusercontent.com/32877064/39383303-6cad4660-4a2e-11e8-90a2-c458b164b4e9.png)
 
-## Landing page Optimizada para V.PASS
-
 ## Prueba de usabilidad Hotjar (HeatMap)
 ![heatmap-volaris-click-desktop](https://user-images.githubusercontent.com/32877064/39383305-6cde695c-4a2e-11e8-9958-8c5f8a6ef2d6.png)
 ![heatmap-volaris-click-phone](https://user-images.githubusercontent.com/32877064/39383306-6cf7dda6-4a2e-11e8-8494-3d3ac86e35f3.png)
 
-## Prueba de usabilidad Hotjar (Grabación de interacción de usuario con landing page)
